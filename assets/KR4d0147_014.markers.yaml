@@ -1923,6 +1923,7 @@ markers:
   - {type: line-break, offset: 7233, content: '', id: KR4d0147_WYG_014-24a05}
   - {type: substitution, offset: 7235, original: 葯, replacement: 藥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20047}}
   - {type: punctuation, offset: 7245, content: (, id: KR4d0147_krp_014-bkkpn1}
+  - {type: voice, offset: 7245, length: 16, name: note, id: n1}
   - {type: punctuation, offset: 7253, content: /, id: KR4d0147_krp_014-bkkpn2}
   - {type: punctuation, offset: 7261, content: ), id: KR4d0147_krp_014-bkkpn3}
   - {type: substitution, offset: 7261, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
@@ -2174,4 +2175,4 @@ markers:
 
       ', id: KR4d0147_krp_014-bkkkrnewl473}
   back: []
-hash: sha256:be99e6b79ccd2ac7853b149e604cea5e950b9b1b8fa6428b69f06e63f2432e8c
+hash: sha256:6a85d4acdb6b16d597b56e59b9b77f35bc28ceb8a3acfc7eca87d4649d07bbc6
